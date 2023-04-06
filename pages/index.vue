@@ -1,6 +1,8 @@
 <template>
   <v-sheet color="#f7f7f7" class=""
-    ><HomeHomebanner /><HomeCategories /><HomeTwo /><HomeMainProduct /><HomeFeatured
+    ><HomeHomebanner />
+    <HomeCategories />
+    <HomeTwo /><HomeMainProduct /><HomeFeatured
   /></v-sheet>
 </template>
 
